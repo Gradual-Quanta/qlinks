@@ -1,0 +1,3 @@
+[submodule "qwiki"]
+	path = qwiki
+	url = git@github.com:Gradual-Quanta/qwiki.git
